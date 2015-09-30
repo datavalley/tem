@@ -1,7 +1,7 @@
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-pygments: true
-url:http://datavalley.github.io
+highlighter: true
+url: http://datavalley.github.io
 kramdown:
   input: GFM
 
