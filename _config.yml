@@ -1,22 +1,19 @@
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: true
-url: http://datavalley.github.io
 kramdown:
   input: GFM
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: zmz
+  email: tem
+  link: http://datavalley.github.io
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 小z的博客 
+description: 小z的博客
+url: http://datavalley.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -26,8 +23,8 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: datavalley.github.io
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: zmz-zh
